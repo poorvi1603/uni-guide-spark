@@ -221,9 +221,6 @@ const CampusAssistant = () => {
       {/* Footer */}
       <footer className="border-t bg-card/50 py-8 px-4">
         <div className="container mx-auto text-center">
-          <p className="text-muted-foreground">
-            Campus Assistant © 2024 - Making student life easier with AI
-          </p>
         </div>
       </footer>
     </div>
